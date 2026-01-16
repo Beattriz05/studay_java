@@ -8,7 +8,7 @@ public class Media {
         System.out.printf("Média 1: %.2f%n", media1);
 
         double media2 = calcularSegundaMedia(); // usado para puxar os métodos e guarda eles
-        double media3 = calcularTerceiroMedia();
+        double media3 = calcularTerceiraMedia();
 
         double mediaGlobal = (media1 + media2 + media3) / 3; // usado para somar as três médias
 
@@ -27,7 +27,7 @@ public class Media {
         return media2; // Envia o valor de volta para o main
     }
 
-    public static double calcularTerceiroMedia() {
+    public static double calcularTerceiraMedia() {
         double nota1 = 5.0;
         double nota2 = 9.0;
 

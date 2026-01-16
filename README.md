@@ -1,15 +1,20 @@
-🚀 Desafios Java: Lógica e Fundamentos
-Este repositório contém uma coleção de exercícios e desafios práticos desenvolvidos durante meus estudos em java. Os códigos aqui presentes refletem a aplicação de conceitos fundamentais da linguagem Java, inspirados em desafios da Alura e questões de lógica de programação.
+## 🚀 Desafios Java: Lógica e Fundamentos
+
+Este repositório contém uma coleção de exercícios e desafios práticos desenvolvidos durante meus estudos em java. 
+Os códigos aqui presentes refletem a aplicação de conceitos fundamentais da linguagem Java, inspirados em desafios 
+da Alura e questões de lógica de programação.
 
 📝 Sobre o Projeto Atual: Sistema de Médias
+
 O projeto principal atual foca na manipulação de dados numéricos e na organização de código em métodos reutilizáveis.
 
-Conceitos Aplicados:
+📈 Conceitos Aplicados:
+
 - Declaração de Variáveis: Uso de tipos primitivos e de ponto flutuante .
 
 - Modularização: Divisão da lógica em métodos específicos para melhor organização e legibilidade.
 
-- Métodos com Retorno (return): Implementação de funções que processam dados e devolvem resultados ao método principal.
+- Métodos com Retorno: Implementação de funções que processam dados e devolvem resultados ao método principal.
 
 - Formatação de Saída: Uso de System.out.printf e máscaras de formatação para exibição padronizada de resultados decimais.
 
@@ -17,17 +22,8 @@ Conceitos Aplicados:
 
 🛠️ Tecnologias Utilizadas
 
-- Java JDK 17+
+- Java JDK 21
 
 - IDE: IntelliJ 
 
-📂 Estrutura do Código
-O arquivo Media.java demonstra o fluxo de execução onde o método principal coordena a chamada de outros métodos e consolida os resultados:
 
-Média 1: Cálculo direto no main.
-
-Média 2: Cálculo em método separado com tratamento de valores negativos.
-
-Média 3: Cálculo em método separado.
-
-Média Global: Consolidação de todos os retornos para gerar o resultado final formatado.
