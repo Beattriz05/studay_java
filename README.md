@@ -6,17 +6,13 @@ da Alura e questões de lógica de programação.
 
 📝 Projetos Atual:
 
-1. Sistema de Médias:
-
-Focado na organização de código e reutilização de lógica.
+1. Sistema de Médias: Focado na organização de código e reutilização de lógica.
 
 - Conceitos: Modularização com métodos, retorno de valores (return) e formatação de saída com printf.
 
 - Destaque: Divisão de responsabilidades para manter o código limpo e legível.
 
-2. Cálculo de Desconto:
-
-Prática de manipulação de variáveis e operadores matemáticos.
+2. Cálculo de Desconto: Prática de manipulação de variáveis e operadores matemáticos.
 
 - Conceitos: Cálculo de porcentagem, uso de tipos de ponto flutuante (double) e concatenação de strings.
 
