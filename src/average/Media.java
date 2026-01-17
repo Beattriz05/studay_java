@@ -32,7 +32,7 @@ public static double calcularTerceiraMedia() {
 
     double media3 = (nota1 + nota2) / 2;
 
-    System.out.printf("Media 3: %.2f%n", media3);
+    System.out.printf("average.Media 3: %.2f%n", media3);
 
     return media3;
 }

@@ -1,3 +1,5 @@
+package discount;
+
 public class CalculoDesconto {
     public static void main(String[] args) { //estudar mais isso
         double precoOriginal = 150.0;
