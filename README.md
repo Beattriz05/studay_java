@@ -6,7 +6,7 @@ da Alura e questões de lógica de programação.
 
 📝 Projetos Atual:
 
-1. Sistema de Médias
+1. Sistema de Médias:
 
 Focado na organização de código e reutilização de lógica.
 
@@ -14,7 +14,7 @@ Focado na organização de código e reutilização de lógica.
 
 - Destaque: Divisão de responsabilidades para manter o código limpo e legível.
 
-2. Cálculo de Desconto
+2. Cálculo de Desconto:
 
 Prática de manipulação de variáveis e operadores matemáticos.
 
@@ -32,7 +32,7 @@ Prática de manipulação de variáveis e operadores matemáticos.
 
 - Formatação: Exibição padronizada de resultados decimais no console.
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas:
 
 - Java JDK 21
 
